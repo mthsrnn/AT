@@ -1,7 +1,7 @@
 # AT
 
 Calculadora de arcos de transição desenvolvida em C. Iclui um parser e um avaliador de expressão booleana.
-A entrada deve ser dada em forma de soma de produtos. Exemplo: `'a*b + !a\*c'`
+A entrada deve ser dada em forma de soma de produtos. Exemplo: `'a*b + !a*c'`
 
 ## Como utilizar
 
