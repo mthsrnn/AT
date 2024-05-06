@@ -7,7 +7,7 @@ A entrada deve ser dada em forma de soma de produtos. Exemplo: `'a*b + !a*c'`
 
 ### No Linux
 é necessário ter o `git` e o `gcc` instalados
-1) faça `clone` do repositório e acesse a pasta `AT`
+1) faça `clone` do repositório e acesse o diretório `AT`
 ```
 $ git clone https://github.com/gckneip/AT.git
 $ cd AT
